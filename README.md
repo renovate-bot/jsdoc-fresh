@@ -1,3 +1,5 @@
+**_THIS REPOSITORY IS DEPRECATED. ALL OF ITS CONTENT AND HISTORY HAS BEEN MOVED TO [GOOGLE-CLOUD-NODE-CORE](https://github.com/googleapis/google-cloud-node-core/tree/main/dev-packages/jsdoc-fresh)_**
+
 # Fresh JSDoc Template
 
 [![NPM Version](https://img.shields.io/npm/v/jsdoc-fresh.svg)](https://npmjs.org/package/jsdoc-fresh)
